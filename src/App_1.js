@@ -1,9 +1,9 @@
-import UseRefExample2 from './components/UseRefExample2'
+import UseRefExample1 from './components/UseRefExample1'
 
 function App() {
 	return (
 		<div className='container mt-5'>
-			<UseRefExample2 />
+			<UseRefExample1 />
 		</div>
 	)
 }
